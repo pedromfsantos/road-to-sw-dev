@@ -1,0 +1,19 @@
+{
+	"name": "fcc-learn-npm-package-json",
+  "author": "Pedro Santos",
+  "description": "To aprendendo man",
+  "keywords": ["freecodecamp", "HAHAHAHA"],
+  "license": "MIT",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+  "version": "1.0",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
